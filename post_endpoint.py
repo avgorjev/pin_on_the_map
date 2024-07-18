@@ -61,7 +61,6 @@ class CreatingFav:
         return self.response
 
 
-
     def check_token(self):
         assert self.response.json()['error']['message'] == "Передан несуществующий или «протухший» 'token'"
 
