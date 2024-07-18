@@ -1,4 +1,4 @@
-# Creating favourites on the map
+# Place pin on the map
 
 
-![Creating pins on the map](https://github.com/avgorjev/pins_on_map/actions/workflows/test.yml/badge.svg)
+![Creating pins on the map](https://github.com/avgorjev/pin_on_the_map/actions/workflows/test.yml/badge.svg)
