@@ -1,0 +1,274 @@
+[
+    {
+        "title": "title",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "reference",
+        "id": "0"
+    },
+    {
+        "title": null,
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "title-null",
+        "id": "1"
+    },
+    {
+        "title": "title",
+        "lat": null,
+        "lon": "82.918501",
+        "color": null,
+        "description": "lat-null",
+        "id": "2"
+    },
+    {
+        "title": "title",
+        "lat": "55.028254",
+        "lon": null,
+        "color": null,
+        "description": "lon-null",
+        "id": "3"
+    },
+    {
+        "title": "t",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "1lentitle",
+        "id": "4"
+    },
+    {
+        "title": "ROSSO",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "captitle",
+        "id": "5"
+    },
+    {
+        "title": "Гуси",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "rustitle",
+        "id": "6"
+    },
+    {
+        "title": "կոչում",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "armtitle",
+        "id": "7"
+    },
+    {
+        "title": "标题",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "chtitle",
+        "id": "8"
+    },
+    {
+        "title": "58743445",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "numtitle",
+        "id": "9"
+    },
+    {
+        "title": ".,:!#@$%&*",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "dottitle",
+        "id": "10"
+    },
+    {
+        "title": "title-title_re",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": null,
+        "description": "hashtitle",
+        "id": "11"
+    },
+    {
+        "title": "title",
+        "lat": 0.000000,
+        "lon": 0.000000,
+        "color": null,
+        "description": "null-island",
+        "id": "12"
+    },
+    {
+        "title": "title",
+        "lat": 0.000001,
+        "lon": 0.000001,
+        "color": null,
+        "description": "01data",
+        "id": "13"
+    },
+    {
+        "title": "title",
+        "lat": -0.000001,
+        "lon": -0.000001,
+        "color": null,
+        "description": "neg01data",
+        "id": "14"
+    },
+    {
+        "title": "title",
+        "lat": 89.999999,
+        "lon": 179.999999,
+        "color": null,
+        "description": "89data",
+        "id": "15"
+    },
+    {
+        "title": "title",
+        "lat": 90.000000,
+        "lon": 0.000000,
+        "color": null,
+        "description": "90data",
+        "id": "16"
+    },
+    {
+        "title": "title",
+        "lat": 0.000000,
+        "lon": 180.000000,
+        "color": null,
+        "description": "180data",
+        "id": "17"
+    },
+    {
+        "title": "title",
+        "lat": 90.000001,
+        "lon": 179.999999,
+        "color": null,
+        "description": "901data",
+        "id": "18"
+    },
+    {
+        "title": "title",
+        "lat": 89.999999,
+        "lon": 180.000001,
+        "color": null,
+        "description": "1801data",
+        "id": "19"
+    },
+    {
+        "title": "title",
+        "lat": -89.999999,
+        "lon": -179.999999,
+        "color": null,
+        "description": "-89data",
+        "id": "20"
+    },
+    {
+        "title": "title",
+        "lat": -90.000000,
+        "lon": -180.000000,
+        "color": null,
+        "description": "-90data",
+        "id": "21"
+    },
+    {
+        "title": "title",
+        "lat": -90.000001,
+        "lon": 0.000001,
+        "color": null,
+        "description": "-901data",
+        "id": "22"
+    },
+    {
+        "title": "title",
+        "lat": -89.999999,
+        "lon": -180.000001,
+        "color": null,
+        "description": "-1801data",
+        "id": "23"
+    },
+    {
+        "title": "title",
+        "lat": -90.000001,
+        "lon": -180.000001,
+        "color": null,
+        "description": "-overdata",
+        "id": "24"
+    },
+    {
+        "title": "title",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": "RED",
+        "description": "RED",
+        "id": "25"
+    },
+    {
+        "title": "title",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": "BLUE",
+        "description": "BLUE",
+        "id": "26"
+    },
+    {
+        "title": "title",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": "GREEN",
+        "description": "GREEN",
+        "id": "27"
+    },
+    {
+        "title": "title",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": "YELLOW",
+        "description": "YELLOW",
+        "id": "28"
+    },
+    {
+        "title": "title",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": "red",
+        "description": "red",
+        "id": "29"
+    },
+    {
+        "title": "title",
+        "lat": 55.028254,
+        "lon": 82.918501,
+        "color": "BLACK",
+        "description": "BLACK",
+        "id": "30"
+    },
+    {
+        "title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum..",
+        "lat": 55.028255,
+        "lon": 82.918502,
+        "color": null,
+        "description": "999_letters",
+        "id": "31"
+    },
+        {
+        "title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum..N",
+        "lat": 55.028255,
+        "lon": 82.918502,
+        "color": null,
+        "description": "1000_letters",
+        "id": "32"
+    },
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum..N7",
+        "lat": 55.028255,
+        "lon": 82.918502,
+        "color": null,
+        "description": "1001_letters",
+        "id": "33"
+    }
+]
