@@ -36,14 +36,6 @@ class Payload:
 class CreatingFav:
 
 
-    def new_favs(self, post_link, payload, token):
-        self.response = requests.post(
-            post_link,
-            data=payload,
-            headers={'Cookie': token}
-        )
-        return self.response
-
     def new_favs_3(self, post_link, line, token):
         self.response = requests.post(
             post_link,
@@ -60,10 +52,8 @@ class CreatingFav:
         )
         return self.response
 
-
     def check_token(self):
         assert self.response.json()['error']['message'] == "Передан несуществующий или «протухший» 'token'"
-
 
     def check_status_is_401(self):
         assert self.response.status_code == 401
